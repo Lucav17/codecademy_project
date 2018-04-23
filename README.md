@@ -1,5 +1,7 @@
 # The Scoop
 
+I added the database features for YAML. I created a database.yaml file and used npm libraries such as yamljs and fs to manage converting yaml to json, json to yaml, and writing to files. All test cases are passed. 
+
 ## Project Overview
 
 In this project, you will build all of the routing and database logic for an article submission web app called The Scoop.

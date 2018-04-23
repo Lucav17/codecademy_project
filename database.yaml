@@ -1,0 +1,6 @@
+users:
+    luca: {name: luca}
+articles: {}
+comments: {}
+nextArticleId: 1
+nextCommentId: 1
